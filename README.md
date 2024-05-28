@@ -1,4 +1,9 @@
 "# First_git" 
 
-to test repository
-�ѱ��׽�Ʈ. 
+to test repository  
+ÇÑ±ÛÅ×½ºÆ®. 
+
+---
+
+#first list here
+#second list item
